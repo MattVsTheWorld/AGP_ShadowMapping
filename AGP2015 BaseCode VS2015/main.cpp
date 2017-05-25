@@ -1,3 +1,5 @@
+// Author - Matteo Marcuzzo
+
 // Completed shadow mapping tutorial by B00273607 - based on tutorial available on http://learnopengl.com/#!Advanced-Lighting/Shadows/Shadow-Mapping
 // Controls: WASD movement, R and F to move vertically
 // Light can be moved with arrow keys and up and down with O and P

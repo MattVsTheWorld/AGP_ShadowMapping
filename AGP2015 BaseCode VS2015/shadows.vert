@@ -1,4 +1,5 @@
 #version 330 core
+// Author - Matteo Marcuzzo
 
 // Based on and adapted from the shadow mapping tutorial by http://learnopengl.com/
 // Available: http://learnopengl.com/#!Advanced-Lighting/Shadows/Shadow-Mapping
